@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gi0v1
-- 👀 I’m interested in 3d printing, electronics (such as Arduino and Raspberry Pi) and  photography
+- 👀 I’m interested in 3d printing, electronics, coding and  photography
 - 🌱 I’m currently learning embedded ML computer vision with TensorFlow
 
 <!---
